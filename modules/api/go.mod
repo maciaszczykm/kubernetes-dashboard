@@ -7,13 +7,13 @@ require (
 	github.com/emicklei/go-restful/v3 v3.11.0
 	github.com/prometheus/client_golang v1.17.0
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/net v0.16.0
+	golang.org/x/net v0.17.0
 	gopkg.in/igm/sockjs-go.v2 v2.1.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.28.2
 	k8s.io/apiextensions-apiserver v0.28.2
-	k8s.io/apimachinery v0.28.2
+	k8s.io/apimachinery v0.28.3
 	k8s.io/client-go v0.28.2
 	k8s.io/dashboard/certificates v0.0.0-00010101000000-000000000000
 )
